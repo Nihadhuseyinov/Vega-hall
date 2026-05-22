@@ -1,0 +1,6 @@
+{
+  "name": "Vega Hall Restaurant",
+  "description": "Elegant fine dining and memorable events restaurant at Vega Hall with custom outdoor garden dining under warm string lights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
